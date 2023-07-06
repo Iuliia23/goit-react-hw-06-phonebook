@@ -15,7 +15,7 @@ export const Label = styled.label`
 export const Input = styled.input`
   padding: 5px;
   border: 1px solid #ccc;
-  border-radius: 4px;
+  border-radius: 8px;
 `;
 
 export const Button = styled.button`
